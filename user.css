@@ -1,6 +1,4 @@
-@-moz-document domain("web.telegram.org") {
-/*      Author @Sventra                  */
-/*      Based on @RisingFire redesign    */
+
 body {
     background: #1B2735;
 }
@@ -145,5 +143,4 @@ div.im_history_scrollable_wrap.nano-content {
 /* EDIT PANEL */
 .im_edit_panel_border {
     border-bottom: 1px solid #435c79;
-}
 }
