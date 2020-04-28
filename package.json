@@ -1,0 +1,14 @@
+{
+  "id": "mytelegram",
+  "name": "Telegram",
+  "version": "0.1",
+  "description": "Telegram",
+  "main": "index.js",
+  "author": "Me",
+  "license": "GPL",
+  "config": {
+    "serviceURL": "https://web.telegram.org/",
+    "hasDirectMessages": true,
+    "hasNotificationSound": true
+  }
+}
