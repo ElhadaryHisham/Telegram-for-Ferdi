@@ -3,7 +3,10 @@
     <p>A nicer Telegram Web!</p>
 </div>
 
-## Credits
-@RisingFire for the original concept which you can find here https://www.behance.net/gallery/95824793/Telegram-Refresh-A-Long-Needed-Update
+## How to create your own Franz recipes:
+* [Read the documentation](https://github.com/meetfranz/plugins)
 
-@Sventra https://github.com/Sventra/tweb-redesign
+## Credits
+* @RisingFire for the original concept which you can find here https://www.behance.net/gallery/95824793/Telegram-Refresh-A-Long-Needed-Update
+
+* @Sventra https://github.com/Sventra/tweb-redesign
